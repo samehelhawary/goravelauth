@@ -1,0 +1,7 @@
+{{ extends "layouts/app" }}
+
+{{ block body() }}
+  <div>
+      {{err}}
+  </div>
+{{ end }}
